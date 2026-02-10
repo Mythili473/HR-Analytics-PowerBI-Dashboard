@@ -72,5 +72,5 @@ Data Analytics Workflow
 * Business-focused and user-friendly layout
 * Drill-through for detailed insights
 
-🖼️<a href="https://github.com/Mythili473/HR-Analytics-PowerBI-Dashboard/blob/main/end%20to%20end%20dashboard.png">Dashboard.png</a>
+🖼️<a href="https://github.com/Mythili473/HR-Analytics-PowerBI-Dashboard/blob/main/Dashboard.png">Dashboard.png</a>
 
