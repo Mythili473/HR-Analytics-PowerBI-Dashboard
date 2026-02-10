@@ -72,7 +72,3 @@ Data Analytics Workflow
 * Business-focused and user-friendly layout
 * Drill-through for detailed insights
 
-
-## 📜 License
-
-This project is created for **educational and portfolio purposes
